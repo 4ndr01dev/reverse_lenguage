@@ -1,0 +1,5 @@
+program miprograma {
+	var x;
+	x=5;
+	println 6;
+}

@@ -1,0 +1,24 @@
+margorp miprograma 
+}
+	rav x ;
+	rav y ;
+	5=x ;
+	 Y nltnirp ;
+	
+	fi ) x == 5 ( 
+	}
+		x nltnirp ;
+	{
+		esle ) x != 5 ( 
+	}
+		x nltnirp ;
+	{
+	elihw ) x!=10( 
+	}
+		1 + x = x;
+			elihw ) Y!=10( 
+	}
+		1 + y= y;
+	{
+	{
+{

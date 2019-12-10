@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/arval/Documents/RAMOS/AUTOMATA/mile-lex/mile-lex/antlr-4.6-complete.jar"/>
+	<classpathentry kind="lib" path="C:/Users/arval/Documents/RAMOS/AUTOMATA/mile-lex/mile-lex/antlr-4.7.1-complete.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
